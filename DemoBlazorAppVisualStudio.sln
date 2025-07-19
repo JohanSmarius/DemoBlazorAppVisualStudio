@@ -11,6 +11,8 @@ Project("{54A90642-561A-4BB1-A94E-469ADEE60C69}") = "AngularProject", "AngularPr
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ConsoleApp", "ConsoleApp\ConsoleApp.csproj", "{CE0D4864-9219-414A-969F-065CDDD5C961}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BlazorAppTests", "BlazorAppTests\BlazorAppTests.csproj", "{4DB39A93-DDD6-43FC-AF82-FE7EA908A98E}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -35,6 +37,10 @@ Global
 		{CE0D4864-9219-414A-969F-065CDDD5C961}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{CE0D4864-9219-414A-969F-065CDDD5C961}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{CE0D4864-9219-414A-969F-065CDDD5C961}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4DB39A93-DDD6-43FC-AF82-FE7EA908A98E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4DB39A93-DDD6-43FC-AF82-FE7EA908A98E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4DB39A93-DDD6-43FC-AF82-FE7EA908A98E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4DB39A93-DDD6-43FC-AF82-FE7EA908A98E}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
