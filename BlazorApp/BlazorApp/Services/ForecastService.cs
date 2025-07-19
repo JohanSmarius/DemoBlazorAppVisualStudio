@@ -1,6 +1,6 @@
 ﻿using BlazorApp.Models;
 
-namespace BlazorApp
+namespace BlazorApp.Services
 {
     public class ForecastService
     {
